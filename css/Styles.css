@@ -34,13 +34,12 @@ h3{
 
 .cloud1{
   position: absolute;
-  top: 5%;
-  left: 65%;
-
+ right: 0;
+top: 50px;
 }
 .cloud2{
   position: absolute;
-  top: 5%;
+  top: 50px;
   left: 0;
 }
 
